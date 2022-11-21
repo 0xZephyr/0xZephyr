@@ -11,6 +11,6 @@
 
 ### About me:
 - Very beginner programmer
-- Familiar with <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
-- Learning C++ 
+- Familiar with NodeJS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
+- Learning C++ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPP" width="30" height="30"/>&nbsp;
 - TF2 Enthusiast
