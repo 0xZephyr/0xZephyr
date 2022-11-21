@@ -9,7 +9,9 @@
     </a>
   </div>
 </div>
+
 ------------------
+
 ### About me:
 - Very beginner programmer
 - Familiar with NodeJS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
